@@ -1,9 +1,5 @@
 body {
-
-}
-
-.flatiron {
-
+  text-align: center;
 }
 
 #home {
@@ -11,6 +7,14 @@ body {
 }
 
 #about {
+
+}
+
+#banner {
+
+}
+
+#info {
 
 }
 
@@ -26,12 +30,10 @@ body {
 
 }
 
-#info {
 
-}
 
 h1 {
-
+  color: White;
 }
 
 h2 {
